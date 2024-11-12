@@ -1,6 +1,6 @@
 # Dermatological Diagnostics: A Unified Deep Learning Framework for Skin Lesion and Cancer Classification
 
-A comprehensive implementation of the research paper on skin lesion classification using Convolutional Neural Networks (CNNs) and transfer learning. This project provides a robust solution for classifying nine different types of skin lesions.
+A comprehensive implementation of the research paper written by me on skin lesion classification using Convolutional Neural Networks (CNNs) and transfer learning. This project provides a robust solution for classifying nine different types of skin lesions. The Research Paper is Published in ICA2N IEEE December 2024 Edition.
 
 ## Features
 
